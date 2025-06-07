@@ -2,7 +2,7 @@
 A real-time sales data analysis Application using Spark Structured Streaming, Kafka as a messaging system, PostgreSQL as a storage for processed data, and Superset for creating a dashboard.
 
 ## Project Description
-Mya Gon Yaung is a men's traditional clothing retail shop that manually records everything in a book. Since sales are only written in a book, it is easy to find daily sales but difficult to know monthly or yearly sales. As a result, the shop owners do not know their monthly and yearly sales, what products are sold most in which month, and which stocks need to be refilled and which don't. As they don't know the answers to these questions, they often overstock or understock many products which greatly affects their profits.
+The shop is a men's traditional clothing retail shop that manually records everything in a book. Since sales are only written in a book, it is easy to find daily sales but difficult to know monthly or yearly sales. As a result, the shop owners do not know their monthly and yearly sales, what products are sold most in which month, and which stocks need to be refilled and which don't. As they don't know the answers to these questions, they often overstock or understock many products which greatly affects their profits.
 
 This project is used to find out whether having a real-time sales data analysis application will be a solution to solve the problems faced at Mya Gon Yaung.
 
@@ -92,7 +92,7 @@ Ensure that you have the following prerequisites installed on your system:
 - 2- Clone the repository
 
 ```bash
-  git clone https://github.com/alaahgag/Real-Time-Sales-Data-Analysis-Application.git
+  git clone https://github.com/hritikaphule/Real-time-sales-analysis.git
 ```
 
 - 3- Navigate to the project directory
@@ -183,11 +183,11 @@ Check out a brief demo of the Real-Time Sales Data Analysis Application dashboar
     
 ## Conclusion
 
-The Real-Time Sales Data Analysis Application is a robust solution designed to address the challenges faced by Mya Gon Yaung, a traditional men's clothing retail shop. By leveraging the power of Spark Structured Streaming, Kafka, PostgreSQL, and Apache Superset, the application provides a seamless and efficient pipeline for processing, analyzing, and visualizing sales data in real-time.
+The Real-Time Sales Data Analysis Application is a robust solution designed to address the challenges faced by The shop, a traditional men's clothing retail shop. By leveraging the power of Spark Structured Streaming, Kafka, PostgreSQL, and Apache Superset, the application provides a seamless and efficient pipeline for processing, analyzing, and visualizing sales data in real-time.
 
 ### Key Achievements
 
-- **Real-Time Analytics:** The application enables real-time analytics, allowing Mya Gon Yaung to monitor sales trends, identify popular products, and make informed decisions promptly.
+- **Real-Time Analytics:** The application enables real-time analytics, allowing The shop to monitor sales trends, identify popular products, and make informed decisions promptly.
   
 - **Inventory Optimization:** By integrating with Spark Structured Streaming, the shop can now optimize inventory management, reducing instances of overstocking or understocking and ultimately improving profitability.
 
@@ -201,6 +201,6 @@ While the Real-Time Sales Data Analysis Application has achieved significant mil
 
 - **Extended Data Sources:** Integrating additional data sources beyond sales data, such as customer feedback or external market trends, to provide a more comprehensive analysis.
 
-- **Scalability:** Ensuring the application is scalable to accommodate the growth of Mya Gon Yaung or similar businesses.
+- **Scalability:** Ensuring the application is scalable to accommodate the growth of The shop or similar businesses.
 
 
